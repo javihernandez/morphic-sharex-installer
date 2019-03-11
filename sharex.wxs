@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <?define SourceDir="."?>
+  <Module Id="Morphic.ShareX" Language="1033" Version="1.0.0.0">
+    <Package Id="a339dff8-0316-4f1c-a2c3-87be6b486f2f"
+             Manufacturer="Raising the Floor"
+             InstallerVersion="405"
+             InstallPrivileges="elevated"
+             InstallScope="perMachine" />
+
+    <ComponentGroupRef Id="ShareXDirectory"/>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ShareXDirectory" />
+    </Directory>
+  </Module>
+</Wix>
