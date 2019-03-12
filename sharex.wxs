@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
   <?define SourceDir="."?>
   <Module Id="Morphic.ShareX" Language="1033" Version="1.0.0.0">
@@ -12,5 +12,19 @@
     <Directory Id="TARGETDIR" Name="SourceDir">
       <Directory Id="ShareXDirectory" />
     </Directory>
+
+    <CustomAction Id="SetupRecorderDevices"
+                  ExeCommand="[ShareXDirectory]\sharex-portable\Recorder-devices-setup.exe /sp /silent /norestart"
+                  Directory="ShareXDirectory" Return="asyncNoWait" />
+
+    <CustomAction Id="ConfigureShareX"
+                  ExeCommand="[ShareXDirectory]\sharex-configurator\node.exe [ShareXDirectory]\sharex-configurator\sharex-configurator.js"
+                  Directory="ShareXDirectory" Return="asyncNoWait" />
+
+    <InstallExecuteSequence>
+      <Custom Action="SetupRecorderDevices" After="InstallFinalize" />
+      <Custom Action="ConfigureShareX" After="InstallFinalize" />
+    </InstallExecuteSequence>
+
   </Module>
 </Wix>
