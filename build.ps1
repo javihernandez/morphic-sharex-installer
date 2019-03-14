@@ -5,7 +5,7 @@
 Push-Location (Split-Path -parent $PSCommandPath)
 
 function Clean {
-    rm temp\*.wixobj, output\*.wixpdb
+    rm temp\*.wixobj, temp\*.wxs, output\*.wixpdb
 }
 
 Clean

@@ -15,15 +15,16 @@
 
     <CustomAction Id="SetupRecorderDevices"
                   ExeCommand="[ShareXDirectory]\sharex-portable\Recorder-devices-setup.exe /sp /silent /norestart"
-                  Directory="ShareXDirectory" Return="asyncNoWait" />
+                  Directory="ShareXDirectory" Return="ignore" />
 
     <CustomAction Id="ConfigureShareX"
-                  ExeCommand="[ShareXDirectory]\sharex-configurator\node.exe [ShareXDirectory]\sharex-configurator\sharex-configurator.js"
-                  Directory="ShareXDirectory" Return="asyncNoWait" />
+                  ExeCommand="[ShareXDirectory]\runConfigure.cmd"
+                  Directory="ShareXDirectory" Execute="deferred"
+                  Impersonate="no" Return="ignore" />
 
     <InstallExecuteSequence>
-      <Custom Action="SetupRecorderDevices" After="InstallFinalize" />
-      <Custom Action="ConfigureShareX" After="InstallFinalize" />
+      <Custom Action="SetupRecorderDevices" After="InstallFiles">NOT REMOVE</Custom>
+      <Custom Action="ConfigureShareX" After="SetupRecorderDevices">NOT REMOVE</Custom>
     </InstallExecuteSequence>
 
   </Module>
