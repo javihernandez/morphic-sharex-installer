@@ -15,7 +15,8 @@
 
     <CustomAction Id="SetupRecorderDevices"
                   ExeCommand="[ShareXDirectory]\sharex-portable\Recorder-devices-setup.exe /sp /silent /norestart"
-                  Directory="ShareXDirectory" Return="ignore" />
+                  Directory="ShareXDirectory" Execute="deferred"
+                  Impersonate="no" Return="ignore" />
 
     <CustomAction Id="ConfigureShareX"
                   ExeCommand="[ShareXDirectory]\runConfigure.cmd"
