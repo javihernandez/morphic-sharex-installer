@@ -8,10 +8,22 @@
              InstallPrivileges="elevated"
              InstallScope="perMachine" />
 
+    <Property Id="MSVCP2010REDITSEXISTS">
+      <DirectorySearch Id="System32FolderSearch" Path="[WindowsFolder]system32">
+        <FileSearch Id="msvcp100" Name="msvcp100.dll"/>
+      </DirectorySearch>
+    </Property>
+
     <ComponentGroupRef Id="ShareXDirectory"/>
     <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="WindowsFolder" />
       <Directory Id="ShareXDirectory" />
     </Directory>
+
+    <CustomAction Id="InstallVC2010Redist"
+                  ExeCommand="[ShareXDirectory]\sharex-portable\vcredist_x64.exe /sp /silent /norestart"
+                  Directory="ShareXDirectory" Execute="deferred"
+                  Impersonate="no" Return="ignore" />
 
     <CustomAction Id="SetupRecorderDevices"
                   ExeCommand="[ShareXDirectory]\sharex-portable\Recorder-devices-setup.exe /sp /silent /norestart"
@@ -24,6 +36,7 @@
                   Impersonate="no" Return="ignore" />
 
     <InstallExecuteSequence>
+      <Custom Action="InstallVC2010Redist" Before="SetupRecorderDevices">NOT MSVCP2010REDITSEXISTS AND NOT REMOVE</Custom>
       <Custom Action="SetupRecorderDevices" After="InstallFiles">NOT REMOVE</Custom>
       <Custom Action="ConfigureShareX" After="SetupRecorderDevices">NOT REMOVE</Custom>
     </InstallExecuteSequence>
