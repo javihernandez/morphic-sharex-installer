@@ -1,27 +1,42 @@
 <#
   This script creates the wix merge module for gpii-wix-installer.
+  It assumes that the dependencies are already in place under deps folder.
 #>
 
 Push-Location (Split-Path -parent $PSCommandPath)
 
 function Clean {
-    rm temp\*.wixobj, temp\*.wxs, output\*.wixpdb
+    rm -r temp, output, build
 }
 
 Clean
 
-## create a fragment (.wxs file) with the "sharex" folder that contains sharex-portable
+Write-Output "Prepare build folder"
+mkdir build
+
+## sharex folder content
+cp -r sharex\* build\
+
+## copy deps
+# ffmpeg.exe
+mkdir build\ffmpeg
+cp deps\ffmpeg-4.1.1-win64-static\bin\ffmpeg.exe build\ffmpeg\
+
+# node.exe
+cp deps\node.exe build\sharex-configurator\
+
+# vcredist_x64.exe
+cp deps\vcredist_x64.exe build\sharex-portable\
+
+Write-Output "Generate fragment (.wxs file) with build folder"
 mkdir temp
-heat dir sharex -dr ShareXDirectory -ke -srd -cg ShareXDirectory -gg -var var.buildFolder -out temp\ShareXDirectory.wxs
+heat dir build -dr ShareXDirectory -ke -srd -cg ShareXDirectory -gg -var var.buildFolder -out temp\ShareXDirectory.wxs
 
-Remove-Item -Recurse output
+Write-Output "Generating .wixobj files"
+candle sharex.wxs temp\ShareXDirectory.wxs -dbuildFolder=build -out temp\
+
+Write-Output "Building merge module"
 mkdir output
-
-## create the .wixobj files
-candle sharex.wxs temp\ShareXDirectory.wxs -dbuildFolder=sharex -out temp\
-
-## build the merge module
 light temp\sharex.wixobj temp\ShareXDirectory.wixobj  -sacl -o output/sharex.msm
 
-Clean
 Pop-Location
