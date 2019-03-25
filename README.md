@@ -4,16 +4,17 @@ This produces `sharex.msm`, which is used by gpii-wix-installer to bundle ShareX
 Morphic installer to install ShareX-Portable.
 
 ## Content of this repo:
- * sharex-portable
- * sharex-configurator
+
+* sharex-portable
+* sharex-configurator
 
 We also pull the following dependencies:
- * ffmpeg
- * node.js
- * Microsoft Visual C++ 2010 Redistributable Package (x64)
- https://download.microsoft.com/download/3/2/2/3224B87F-CFA0-4E70-BDA3-3DE650EFEBA5/vcredist_x64.exe
+
+* ffmpeg
+* Node.js
+* Microsoft Visual C++ 2010 Redistributable Package (x64)
 
 ## Usage
 
-* Run [build.ps1](build.ps1)
-* Take `output/filebeat.msm`.
+* Run the [getDependencies.ps1](getDependencies.ps1) script to grab the dependencies. This only needs to be run once unless you need to grab the dependencies again.
+* Run the [build.ps1](build.ps1) script to build the merge module. This will generate a `sharex.msm` file into the output folder.
