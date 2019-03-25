@@ -1,0 +1,285 @@
+﻿2019-03-08 11:49:14.267 - ShareX starting.
+2019-03-08 11:49:14.267 - Version: 12.3.1 Portable
+2019-03-08 11:49:14.267 - Build: Release
+2019-03-08 11:49:14.267 - Command line: ShareX.exe  -s -p
+2019-03-08 11:49:14.267 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-08 11:49:14.267 - Personal path detection method: Portable CLI flag
+2019-03-08 11:49:14.267 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-08 11:49:14.267 - Running as elevated process: False
+2019-03-08 11:49:14.267 - Flags: Portable, SilentRun
+2019-03-08 11:49:14.302 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:49:15.241 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:49:15.241 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:49:15.241 - MainForm init started.
+2019-03-08 11:49:15.508 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:49:15.508 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:49:15.602 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:49:15.856 - MainForm init finished.
+2019-03-08 11:49:16.204 - Startup time: 2051 ms
+2019-03-08 11:49:16.204 - CommandLine: s
+2019-03-08 11:49:16.219 - CommandLine: p
+2019-03-08 11:49:16.250 - HotkeyManager started.
+2019-03-08 11:49:16.250 - WatchFolderManager started.
+2019-03-08 11:50:10.763 - CommandLine: workflow
+2019-03-08 11:50:10.781 - Executing: Capture entire screen
+2019-03-08 11:50:10.923 - Task in queue. Job: Job, Type: Image, Host: 
+2019-03-08 11:50:10.923 - Task status: Preparing
+2019-03-08 11:50:11.015 - Image copied to clipboard.
+2019-03-08 11:50:11.051 - Task completed. Filename: Screenshot-2019-03-08 11-50-10.bmp, Duration: 107 ms
+2019-03-08 11:50:51.447 - CommandLine: workflow
+2019-03-08 11:50:51.447 - Executing: Capture entire screen
+2019-03-08 11:50:51.510 - Task in queue. Job: Job, Type: Image, Host: 
+2019-03-08 11:50:51.510 - Task status: Preparing
+2019-03-08 11:50:51.556 - Image saved to file: C:\Users\vagrant\Desktop\Screenshot-2019-03-08 11-50-51.png
+2019-03-08 11:50:51.556 - Task completed. Filename: Screenshot-2019-03-08 11-50-51.png, Duration: 46 ms
+2019-03-08 11:50:57.388 - URL opened: C:\Users\vagrant\Desktop\Screenshot-2019-03-08 11-50-51.png
+2019-03-08 11:54:09.168 - ShareX closing.
+2019-03-08 11:54:09.190 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:54:09.549 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:54:09.549 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:54:09.659 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:54:09.659 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:54:09.831 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:54:09.831 - ShareX closed.
+2019-03-08 11:54:19.161 - ShareX starting.
+2019-03-08 11:54:19.176 - Version: 12.3.1 Portable
+2019-03-08 11:54:19.176 - Build: Release
+2019-03-08 11:54:19.176 - Command line: ShareX.exe  -s -p
+2019-03-08 11:54:19.176 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-08 11:54:19.176 - Personal path detection method: Portable CLI flag
+2019-03-08 11:54:19.176 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-08 11:54:19.176 - Running as elevated process: False
+2019-03-08 11:54:19.176 - Flags: Portable, SilentRun
+2019-03-08 11:54:19.194 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:54:19.926 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:54:19.941 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:54:19.941 - MainForm init started.
+2019-03-08 11:54:20.160 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:54:20.160 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:54:20.224 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:54:20.493 - MainForm init finished.
+2019-03-08 11:54:20.838 - Startup time: 1735 ms
+2019-03-08 11:54:20.854 - CommandLine: s
+2019-03-08 11:54:20.854 - CommandLine: p
+2019-03-08 11:54:20.886 - HotkeyManager started.
+2019-03-08 11:54:20.886 - WatchFolderManager started.
+2019-03-08 11:54:36.139 - CommandLine: workflow
+2019-03-08 11:54:36.139 - Executing: Capture entire screen
+2019-03-08 11:54:36.342 - Task in queue. Job: Job, Type: Image, Host: 
+2019-03-08 11:54:36.358 - Task status: Preparing
+2019-03-08 11:54:36.436 - Image saved to file: C:\Users\vagrant\Desktop\Screenshot-2019-03-08 11-54-36.png
+2019-03-08 11:54:36.451 - Task completed. Filename: Screenshot-2019-03-08 11-54-36.png, Duration: 93 ms
+2019-03-08 11:55:22.144 - ShareX closing.
+2019-03-08 11:55:22.157 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:55:22.534 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:55:22.534 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:55:22.643 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:55:22.658 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:55:22.884 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:55:22.884 - ShareX closed.
+2019-03-08 11:55:35.611 - ShareX starting.
+2019-03-08 11:55:35.628 - Version: 12.3.1 Portable
+2019-03-08 11:55:35.628 - Build: Release
+2019-03-08 11:55:35.628 - Command line: ShareX.exe  -s -p
+2019-03-08 11:55:35.628 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-08 11:55:35.628 - Personal path detection method: Portable CLI flag
+2019-03-08 11:55:35.628 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-08 11:55:35.628 - Running as elevated process: False
+2019-03-08 11:55:35.628 - Flags: Portable, SilentRun
+2019-03-08 11:55:35.647 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:55:36.379 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:55:36.395 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:55:36.395 - MainForm init started.
+2019-03-08 11:55:36.600 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:55:36.616 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:55:36.694 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:55:36.995 - MainForm init finished.
+2019-03-08 11:55:37.308 - Startup time: 1739 ms
+2019-03-08 11:55:37.308 - CommandLine: s
+2019-03-08 11:55:37.324 - CommandLine: p
+2019-03-08 11:55:37.340 - HotkeyManager started.
+2019-03-08 11:55:37.340 - WatchFolderManager started.
+2019-03-08 11:56:21.084 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:56:21.194 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:56:21.460 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:56:21.460 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:56:21.632 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:56:21.632 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:57:46.226 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:57:46.558 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:57:51.140 - ShareX closing.
+2019-03-08 11:57:51.140 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:57:51.346 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:57:51.346 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:57:51.440 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:57:51.440 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:57:51.632 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:57:51.632 - ShareX closed.
+2019-03-08 11:58:00.832 - ShareX starting.
+2019-03-08 11:58:00.849 - Version: 12.3.1 Portable
+2019-03-08 11:58:00.849 - Build: Release
+2019-03-08 11:58:00.849 - Command line: ShareX.exe  -s -p
+2019-03-08 11:58:00.849 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-08 11:58:00.849 - Personal path detection method: Portable CLI flag
+2019-03-08 11:58:00.849 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-08 11:58:00.849 - Running as elevated process: False
+2019-03-08 11:58:00.849 - Flags: Portable, SilentRun
+2019-03-08 11:58:00.866 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:01.677 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:01.677 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:01.677 - MainForm init started.
+2019-03-08 11:58:01.930 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:01.940 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:02.077 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:02.329 - MainForm init finished.
+2019-03-08 11:58:02.779 - Startup time: 1995 ms
+2019-03-08 11:58:02.799 - CommandLine: s
+2019-03-08 11:58:02.810 - CommandLine: p
+2019-03-08 11:58:02.826 - HotkeyManager started.
+2019-03-08 11:58:02.826 - WatchFolderManager started.
+2019-03-08 11:58:12.093 - ShareX closing.
+2019-03-08 11:58:12.102 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:12.489 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:12.489 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:12.618 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:12.618 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:12.800 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:12.800 - ShareX closed.
+2019-03-08 11:58:23.173 - ShareX starting.
+2019-03-08 11:58:23.188 - Version: 12.3.1 Portable
+2019-03-08 11:58:23.188 - Build: Release
+2019-03-08 11:58:23.188 - Command line: ShareX.exe  -s -p
+2019-03-08 11:58:23.188 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-08 11:58:23.188 - Personal path detection method: Portable CLI flag
+2019-03-08 11:58:23.188 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-08 11:58:23.188 - Running as elevated process: False
+2019-03-08 11:58:23.188 - Flags: Portable, SilentRun
+2019-03-08 11:58:23.204 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:23.929 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:23.929 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:23.929 - MainForm init started.
+2019-03-08 11:58:24.204 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:24.216 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:24.310 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:24.582 - MainForm init finished.
+2019-03-08 11:58:24.967 - Startup time: 1831 ms
+2019-03-08 11:58:24.970 - CommandLine: s
+2019-03-08 11:58:24.978 - CommandLine: p
+2019-03-08 11:58:25.002 - HotkeyManager started.
+2019-03-08 11:58:25.005 - WatchFolderManager started.
+2019-03-08 11:58:28.638 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:28.654 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:28.654 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:28.884 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:29.035 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:29.208 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:36.665 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:36.989 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:45.025 - ShareX closing.
+2019-03-08 11:58:45.025 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:45.266 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:45.282 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:45.413 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:45.413 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:45.560 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:45.560 - ShareX closed.
+2019-03-08 11:58:54.570 - ShareX starting.
+2019-03-08 11:58:54.570 - Version: 12.3.1 Portable
+2019-03-08 11:58:54.570 - Build: Release
+2019-03-08 11:58:54.570 - Command line: ShareX.exe  -s -p
+2019-03-08 11:58:54.570 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-08 11:58:54.570 - Personal path detection method: Portable CLI flag
+2019-03-08 11:58:54.570 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-08 11:58:54.570 - Running as elevated process: False
+2019-03-08 11:58:54.570 - Flags: Portable, SilentRun
+2019-03-08 11:58:54.586 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:55.590 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:58:55.590 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:55.606 - MainForm init started.
+2019-03-08 11:58:55.842 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:58:55.857 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:55.950 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:58:56.202 - MainForm init finished.
+2019-03-08 11:58:56.587 - Startup time: 2064 ms
+2019-03-08 11:58:56.592 - CommandLine: s
+2019-03-08 11:58:56.599 - CommandLine: p
+2019-03-08 11:58:56.622 - HotkeyManager started.
+2019-03-08 11:58:56.622 - WatchFolderManager started.
+2019-03-08 11:59:05.426 - ShareX closing.
+2019-03-08 11:59:05.433 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:59:05.850 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:59:05.851 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:59:05.974 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:59:05.975 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:59:06.144 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:59:06.144 - ShareX closed.
+2019-03-08 11:59:20.259 - ShareX starting.
+2019-03-08 11:59:20.259 - Version: 12.3.1 Portable
+2019-03-08 11:59:20.259 - Build: Release
+2019-03-08 11:59:20.259 - Command line: ShareX.exe  -s -p
+2019-03-08 11:59:20.259 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-08 11:59:20.259 - Personal path detection method: Portable CLI flag
+2019-03-08 11:59:20.274 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-08 11:59:20.274 - Running as elevated process: False
+2019-03-08 11:59:20.274 - Flags: Portable, SilentRun
+2019-03-08 11:59:20.290 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:59:21.267 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:59:21.273 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:59:21.276 - MainForm init started.
+2019-03-08 11:59:21.692 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:59:21.699 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:59:21.833 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:59:22.126 - MainForm init finished.
+2019-03-08 11:59:22.472 - Startup time: 2275 ms
+2019-03-08 11:59:22.472 - CommandLine: s
+2019-03-08 11:59:22.472 - CommandLine: p
+2019-03-08 11:59:22.486 - HotkeyManager started.
+2019-03-08 11:59:22.486 - WatchFolderManager started.
+2019-03-08 11:59:29.991 - ShareX closing.
+2019-03-08 11:59:30.004 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:59:30.367 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-08 11:59:30.367 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:59:30.462 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-08 11:59:30.462 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:59:30.649 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-08 11:59:30.649 - ShareX closed.
+2019-03-11 03:35:42.437 - ShareX starting.
+2019-03-11 03:35:42.437 - Version: 12.3.1 Portable
+2019-03-11 03:35:42.437 - Build: Release
+2019-03-11 03:35:42.437 - Command line: "C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources/sharex-portable\sharex.exe"  -workflow "Morphic: Capture entire screen to desktop"
+2019-03-11 03:35:42.437 - Personal path: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX
+2019-03-11 03:35:42.437 - Personal path detection method: Portable file (C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\Portable)
+2019-03-11 03:35:42.437 - Operating system: Windows 10 Enterprise Evaluation (64-bit)
+2019-03-11 03:35:42.437 - Running as elevated process: False
+2019-03-11 03:35:42.437 - Flags: Portable
+2019-03-11 03:35:42.454 - ApplicationConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-11 03:35:43.761 - ApplicationConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-11 03:35:43.761 - UploadersConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-11 03:35:43.761 - MainForm init started.
+2019-03-11 03:35:44.093 - UploadersConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-11 03:35:44.108 - HotkeysConfig load started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-11 03:35:44.203 - HotkeysConfig load finished: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-11 03:35:44.792 - MainForm init finished.
+2019-03-11 03:35:45.251 - Startup time: 2868 ms
+2019-03-11 03:35:45.251 - CommandLine: workflow
+2019-03-11 03:35:45.251 - Executing: Capture entire screen
+2019-03-11 03:35:45.440 - Task in queue. Job: Job, Type: Image, Host: 
+2019-03-11 03:35:45.578 - HotkeyManager started.
+2019-03-11 03:35:45.594 - WatchFolderManager started.
+2019-03-11 03:35:45.627 - Task status: Preparing
+2019-03-11 03:35:45.689 - Image saved to file: C:\Users\vagrant\Desktop\Screenshot-2019-03-11 03-35-45.png
+2019-03-11 03:35:45.806 - Task completed. Filename: Screenshot-2019-03-11 03-35-45.png, Duration: 326 ms
+2019-03-11 03:35:54.042 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-11 03:35:54.058 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-11 03:35:54.074 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-11 03:35:54.570 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-11 03:35:54.696 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-11 03:35:54.759 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-11 04:06:56.051 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-11 04:06:56.059 - UploadersConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-11 04:06:56.253 - UploadersConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\UploadersConfig.json
+2019-03-11 04:06:56.254 - HotkeysConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-11 04:06:56.452 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-11 04:06:56.577 - HotkeysConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-03-11 04:32:05.366 - ApplicationConfig save started: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-03-11 04:32:05.688 - ApplicationConfig save successful: C:\Users\vagrant\Downloads\sharex - prototype\morphic-screen-capture-resources\sharex-portable\ShareX\ApplicationConfig.json

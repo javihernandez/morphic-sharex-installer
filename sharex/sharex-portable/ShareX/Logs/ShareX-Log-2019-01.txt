@@ -1,0 +1,584 @@
+﻿2019-01-04 20:04:17.272 - ShareX starting.
+2019-01-04 20:04:17.304 - Version: 12.3.1 Portable
+2019-01-04 20:04:17.304 - Build: Release
+2019-01-04 20:04:17.304 - Command line: "C:\ShareX\ShareX.exe" 
+2019-01-04 20:04:17.304 - Personal path: C:\ShareX\ShareX
+2019-01-04 20:04:17.304 - Personal path detection method: Portable file (C:\ShareX\Portable)
+2019-01-04 20:04:17.304 - Operating system: Windows 10 Enterprise (64-bit)
+2019-01-04 20:04:17.319 - Running as elevated process: False
+2019-01-04 20:04:17.319 - Flags: Portable
+2019-01-04 20:04:17.366 - ApplicationConfig load started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:04:17.366 - ApplicationConfig load started: C:\ShareX\ShareX\Backup\ApplicationConfig.json
+2019-01-04 20:04:17.366 - ApplicationConfig not found. Loading new instance.
+2019-01-04 20:04:17.522 - Temp files cleaned: C:\Users\aashreys\AppData\Local\Temp\ShareX
+2019-01-04 20:04:17.601 - UploadersConfig load started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-04 20:04:17.601 - UploadersConfig load started: C:\ShareX\ShareX\Backup\UploadersConfig.json
+2019-01-04 20:04:17.601 - UploadersConfig not found. Loading new instance.
+2019-01-04 20:04:17.616 - MainForm init started.
+2019-01-04 20:04:17.632 - HotkeysConfig load started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:04:17.632 - HotkeysConfig load started: C:\ShareX\ShareX\Backup\HotkeysConfig.json
+2019-01-04 20:04:17.632 - HotkeysConfig not found. Loading new instance.
+2019-01-04 20:04:18.272 - MainForm init finished.
+2019-01-04 20:04:18.757 - Startup time: 1893 ms
+2019-01-04 20:04:18.866 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2019-01-04 20:04:18.866 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2019-01-04 20:04:18.866 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2019-01-04 20:04:18.866 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2019-01-04 20:04:18.866 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2019-01-04 20:04:18.898 - HotkeyManager started.
+2019-01-04 20:04:18.898 - WatchFolderManager started.
+2019-01-04 20:04:31.679 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:04:32.179 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:04:38.741 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-01-04 20:04:41.101 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:04:41.335 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:04:43.507 - Executing: Capture region
+2019-01-04 20:04:45.929 - Task in queue. Job: Job, Type: Image, Host: Imgur
+2019-01-04 20:04:45.944 - Task status: Preparing
+2019-01-04 20:04:46.060 - Image copied to clipboard.
+2019-01-04 20:04:46.088 - Image saved to file: C:\ShareX\ShareX\Screenshots\2019-01\explorer_7LCom5B2pa.png
+2019-01-04 20:04:49.131 - Task status: Stopping
+2019-01-04 20:04:49.147 - Task stopped. Filename: explorer_7LCom5B2pa.png
+2019-01-04 20:05:00.710 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-01-04 20:06:02.039 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-01-04 20:06:55.051 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-01-04 20:07:26.082 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-01-04 20:07:52.676 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-01-04 20:08:44.114 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:08:44.379 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:08:46.770 - Executing: Start/Stop screen recording using custom region
+2019-01-04 20:08:46.770 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-04 20:09:04.093 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 528 -offset_y 242 -video_size 1350x1068 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "C:\ShareX\ShareX\Screenshots\2019-01\hNeOMjoTiJ.mp4"
+2019-01-04 20:09:08.780 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-04 20:09:08.811 - Task status: Preparing
+2019-01-04 20:09:08.811 - Task completed. Filename: hNeOMjoTiJ.mp4, Duration: 15 ms
+2019-01-04 20:09:30.564 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:09:30.846 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:09:43.189 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-04 20:10:11.603 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-04 20:11:22.502 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-04 20:11:39.153 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:11:39.877 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:12:04.492 - Executing: Start/Stop screen recording using custom region
+2019-01-04 20:12:04.508 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-04 20:12:12.853 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 328 -offset_y 326 -video_size 898x628 -draw_mouse 1 -i desktop -f dshow -i audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\ShareX\ShareX\Screenshots\2019-01\AZsEUVCu82.mp4"
+2019-01-04 20:12:18.498 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-04 20:12:18.631 - Task status: Preparing
+2019-01-04 20:12:18.642 - Task completed. Filename: AZsEUVCu82.mp4, Duration: 60 ms
+2019-01-04 20:13:08.629 - Found program with first method: C:\Windows\system32\mspaint.exe
+2019-01-04 20:13:10.128 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:13:10.696 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:13:42.231 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-04 20:28:11.437 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2019-01-04 20:28:12.859 - Hotkey unregistered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2019-01-04 20:28:14.312 - Hotkey unregistered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2019-01-04 20:28:15.141 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2019-01-04 20:28:16.500 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2019-01-04 20:28:21.109 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:28:21.343 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:29:01.437 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:29:01.749 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:29:09.124 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:29:09.390 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:29:30.877 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-04 20:35:50.970 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:35:51.220 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:40:19.096 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:40:19.346 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:40:35.517 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:40:35.533 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-04 20:40:35.971 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-04 20:40:35.971 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-04 20:40:36.064 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-04 20:40:36.142 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:22:51.644 - ShareX starting.
+2019-01-12 17:22:51.840 - Version: 12.3.1 Portable
+2019-01-12 17:22:51.840 - Build: Release
+2019-01-12 17:22:51.840 - Command line: "C:\ShareX\ShareX.exe" 
+2019-01-12 17:22:51.842 - Personal path: C:\ShareX\ShareX
+2019-01-12 17:22:51.842 - Personal path detection method: Portable file (C:\ShareX\Portable)
+2019-01-12 17:22:51.854 - Operating system: Windows 10 Home (64-bit)
+2019-01-12 17:22:51.890 - Running as elevated process: False
+2019-01-12 17:22:51.925 - Flags: Portable
+2019-01-12 17:22:52.053 - ApplicationConfig load started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:22:59.174 - ApplicationConfig load finished: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:22:59.183 - UploadersConfig load started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:22:59.558 - MainForm init started.
+2019-01-12 17:22:59.816 - UploadersConfig load finished: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:22:59.827 - HotkeysConfig load started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:23:00.494 - HotkeysConfig load finished: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:23:06.100 - MainForm init finished.
+2019-01-12 17:23:10.145 - Startup time: 25461 ms
+2019-01-12 17:23:10.972 - HotkeyManager started.
+2019-01-12 17:23:10.975 - WatchFolderManager started.
+2019-01-12 17:23:15.334 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:23:15.334 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:23:15.588 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:23:16.329 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:23:16.551 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:23:16.671 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:20.650 - ShareX closing.
+2019-01-12 17:24:20.675 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:21.259 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:21.286 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:24:21.572 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:24:21.597 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:24:22.150 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:24:22.182 - ShareX closed.
+2019-01-12 17:24:22.769 - ShareX starting.
+2019-01-12 17:24:22.780 - Version: 12.3.1 Portable
+2019-01-12 17:24:22.780 - Build: Release
+2019-01-12 17:24:22.780 - Command line: "C:\ShareX\ShareX.exe" 
+2019-01-12 17:24:22.782 - Personal path: C:\ShareX\ShareX
+2019-01-12 17:24:22.782 - Personal path detection method: Portable file (C:\ShareX\Portable)
+2019-01-12 17:24:22.784 - Operating system: Windows 10 Home (64-bit)
+2019-01-12 17:24:22.785 - Running as elevated process: False
+2019-01-12 17:24:22.790 - Flags: Portable
+2019-01-12 17:24:22.823 - ApplicationConfig load started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:24.605 - ApplicationConfig load finished: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:24.616 - UploadersConfig load started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:24:24.618 - MainForm init started.
+2019-01-12 17:24:25.090 - UploadersConfig load finished: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:24:25.105 - HotkeysConfig load started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:24:25.356 - HotkeysConfig load finished: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:24:25.854 - MainForm init finished.
+2019-01-12 17:24:26.426 - Startup time: 3754 ms
+2019-01-12 17:24:26.575 - HotkeyManager started.
+2019-01-12 17:24:26.579 - WatchFolderManager started.
+2019-01-12 17:24:50.991 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:51.753 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:51.889 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:24:51.900 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:24:51.903 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:24:52.443 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:24:52.654 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:24:52.703 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:30:22.433 - CommandLine: s
+2019-01-12 17:30:22.460 - CommandLine: p
+2019-01-12 17:30:22.967 - CommandLine: workflow
+2019-01-12 17:30:22.997 - Executing: Capture entire screen
+2019-01-12 17:30:23.315 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-12 17:30:23.449 - Task status: Preparing
+2019-01-12 17:30:23.828 - Image saved to file: C:\Users\Morphic\Desktop\O3gMYIHdLR.png
+2019-01-12 17:30:23.882 - Task completed. Filename: O3gMYIHdLR.png, Duration: 528 ms
+2019-01-12 17:30:29.308 - ShareX closing.
+2019-01-12 17:30:29.334 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:30:29.879 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:30:29.903 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:30:30.176 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:30:30.202 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:30:30.618 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:30:30.640 - ShareX closed.
+2019-01-12 17:30:32.913 - ShareX starting.
+2019-01-12 17:30:32.925 - Version: 12.3.1 Portable
+2019-01-12 17:30:32.925 - Build: Release
+2019-01-12 17:30:32.925 - Command line: "C:\ShareX\sharex.exe"  -s -p
+2019-01-12 17:30:32.927 - Personal path: C:\ShareX\ShareX
+2019-01-12 17:30:32.927 - Personal path detection method: Portable CLI flag
+2019-01-12 17:30:32.929 - Operating system: Windows 10 Home (64-bit)
+2019-01-12 17:30:32.930 - Running as elevated process: False
+2019-01-12 17:30:32.934 - Flags: Portable, SilentRun
+2019-01-12 17:30:32.964 - ApplicationConfig load started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:30:34.632 - ApplicationConfig load finished: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:30:34.641 - UploadersConfig load started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:30:34.643 - MainForm init started.
+2019-01-12 17:30:35.087 - UploadersConfig load finished: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:30:35.101 - HotkeysConfig load started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:30:35.279 - HotkeysConfig load finished: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:30:35.749 - MainForm init finished.
+2019-01-12 17:30:36.327 - Startup time: 3557 ms
+2019-01-12 17:30:36.333 - CommandLine: s
+2019-01-12 17:30:36.345 - CommandLine: p
+2019-01-12 17:30:36.391 - HotkeyManager started.
+2019-01-12 17:30:36.395 - WatchFolderManager started.
+2019-01-12 17:31:04.882 - CommandLine: s
+2019-01-12 17:31:04.889 - CommandLine: p
+2019-01-12 17:31:05.360 - CommandLine: workflow
+2019-01-12 17:31:05.368 - Executing: Capture entire screen
+2019-01-12 17:31:05.686 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-12 17:31:05.707 - Task status: Preparing
+2019-01-12 17:31:05.949 - Image saved to file: C:\Users\Morphic\Desktop\u81r9oOAYh.png
+2019-01-12 17:31:05.973 - Task completed. Filename: u81r9oOAYh.png, Duration: 260 ms
+2019-01-12 17:31:10.333 - CommandLine: s
+2019-01-12 17:31:10.342 - CommandLine: p
+2019-01-12 17:31:10.785 - CommandLine: workflow
+2019-01-12 17:31:10.785 - Executing: Capture entire screen
+2019-01-12 17:31:10.894 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-12 17:31:10.917 - Task status: Preparing
+2019-01-12 17:31:11.039 - Image saved to file: C:\Users\Morphic\Desktop\mVMHIPqgmW.png
+2019-01-12 17:31:11.040 - Task completed. Filename: mVMHIPqgmW.png, Duration: 145 ms
+2019-01-12 17:32:03.839 - Executing: Open main window
+2019-01-12 17:34:26.708 - CommandLine: s
+2019-01-12 17:34:26.715 - CommandLine: p
+2019-01-12 17:34:27.251 - CommandLine: workflow
+2019-01-12 17:34:27.251 - Executing: Capture entire screen
+2019-01-12 17:34:27.525 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-12 17:34:27.528 - Task status: Preparing
+2019-01-12 17:34:27.751 - Image saved to file: C:\Users\Morphic\Desktop\Screenshot-2019-01-12 17-34-27.png
+2019-01-12 17:34:27.752 - Task completed. Filename: Screenshot-2019-01-12 17-34-27.png, Duration: 224 ms
+2019-01-12 17:45:18.074 - ShareX closing.
+2019-01-12 17:45:18.087 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:45:18.237 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:45:19.541 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:45:19.641 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:45:19.680 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:45:20.253 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:45:20.279 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:45:20.804 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:45:20.830 - ShareX closed.
+2019-01-12 17:45:43.823 - ShareX starting.
+2019-01-12 17:45:43.877 - Version: 12.3.1 Portable
+2019-01-12 17:45:43.877 - Build: Release
+2019-01-12 17:45:43.877 - Command line: "C:\ShareX\sharex.exe"  -s -p
+2019-01-12 17:45:43.879 - Personal path: C:\ShareX\ShareX
+2019-01-12 17:45:43.879 - Personal path detection method: Portable CLI flag
+2019-01-12 17:45:43.881 - Operating system: Windows 10 Home (64-bit)
+2019-01-12 17:45:43.882 - Running as elevated process: False
+2019-01-12 17:45:43.888 - Flags: Portable, SilentRun
+2019-01-12 17:45:44.401 - ApplicationConfig load started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:46:17.795 - ApplicationConfig load finished: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:46:17.806 - UploadersConfig load started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:46:17.838 - MainForm init started.
+2019-01-12 17:46:18.909 - UploadersConfig load finished: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:46:18.921 - HotkeysConfig load started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:46:19.191 - HotkeysConfig load finished: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:46:19.423 - MainForm init finished.
+2019-01-12 17:46:20.190 - Startup time: 48524 ms
+2019-01-12 17:46:20.197 - CommandLine: s
+2019-01-12 17:46:20.226 - CommandLine: p
+2019-01-12 17:46:20.280 - HotkeyManager started.
+2019-01-12 17:46:20.284 - WatchFolderManager started.
+2019-01-12 17:47:35.738 - CommandLine: s
+2019-01-12 17:47:35.745 - CommandLine: p
+2019-01-12 17:47:36.154 - CommandLine: workflow
+2019-01-12 17:47:36.162 - Executing: Capture entire screen
+2019-01-12 17:47:36.464 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-12 17:47:36.527 - Task status: Preparing
+2019-01-12 17:47:36.771 - Image saved to file: C:\Users\Morphic\Desktop\Screenshot-2019-01-12 17-47-36.png
+2019-01-12 17:47:36.797 - Task completed. Filename: Screenshot-2019-01-12 17-47-36.png, Duration: 309 ms
+2019-01-12 17:53:37.627 - Executing: Capture region
+2019-01-12 17:53:39.097 - Executing: Open main window
+2019-01-12 17:53:43.318 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:53:43.318 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:53:43.318 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:53:44.464 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 17:53:45.012 - Executing: Open main window
+2019-01-12 17:53:45.125 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:53:45.225 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 17:56:02.474 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:56:02.933 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 17:56:14.249 - CommandLine: s
+2019-01-12 17:56:14.257 - CommandLine: p
+2019-01-12 17:56:14.683 - CommandLine: workflow
+2019-01-12 17:56:14.683 - Executing: Capture entire screen
+2019-01-12 17:56:14.775 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-12 17:56:14.806 - Task status: Preparing
+2019-01-12 17:56:14.994 - Image saved to file: C:\Users\Morphic\Desktop\Screenshot-2019-01-12 17-56-14.png
+2019-01-12 17:56:14.995 - Task completed. Filename: Screenshot-2019-01-12 17-56-14.png, Duration: 217 ms
+2019-01-12 17:57:41.824 - CommandLine: workflow
+2019-01-12 17:57:41.825 - Executing: Capture region
+2019-01-12 17:57:54.698 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-12 17:57:54.701 - Task status: Preparing
+2019-01-12 17:57:55.076 - Image saved to file: C:\Users\Morphic\Desktop\explorer_Screenshot-2019-01-12 17-57-54.png
+2019-01-12 17:57:55.077 - Task completed. Filename: explorer_Screenshot-2019-01-12 17-57-54.png, Duration: 376 ms
+2019-01-12 17:58:54.426 - CommandLine: workflow
+2019-01-12 17:58:54.427 - Executing: Start/Stop screen recording using custom region
+2019-01-12 17:58:54.481 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 17:59:03.554 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1366x768 -draw_mouse 1 -i desktop -f dshow -i audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-12 17-59-02.mp4"
+2019-01-12 18:00:17.869 - CommandLine: workflow
+2019-01-12 18:00:17.870 - Executing: Start/Stop screen recording using custom region
+2019-01-12 18:00:17.874 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 18:00:19.994 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 266 -offset_y 161 -video_size 152x428 -draw_mouse 1 -i desktop -f dshow -i audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-00-19.mp4"
+2019-01-12 18:00:26.565 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-12 18:00:26.583 - Task status: Preparing
+2019-01-12 18:00:26.588 - Task completed. Filename: Recording-2019-01-12 18-00-19.mp4, Duration: 18 ms
+2019-01-12 18:00:31.104 - CommandLine: workflow
+2019-01-12 18:00:31.105 - Executing: Start/Stop screen recording using custom region
+2019-01-12 18:00:31.108 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 18:00:32.609 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1366x768 -draw_mouse 1 -i desktop -f dshow -i audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-00-32.mp4"
+2019-01-12 18:00:38.989 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-12 18:00:38.999 - Task status: Preparing
+2019-01-12 18:00:39.001 - Task completed. Filename: Recording-2019-01-12 18-00-32.mp4, Duration: 10 ms
+2019-01-12 18:01:05.660 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:01:05.661 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 18:01:05.670 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:01:06.438 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 18:01:06.669 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:01:06.809 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:01:29.698 - CommandLine: workflow
+2019-01-12 18:01:29.698 - Executing: Start/Stop screen recording using custom region
+2019-01-12 18:01:29.702 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 18:01:38.829 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 17 -offset_y 12 -video_size 1188x654 -draw_mouse 1 -i desktop -f dshow -i audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-01-38.mp4"
+2019-01-12 18:01:47.527 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-12 18:01:47.567 - Task status: Preparing
+2019-01-12 18:01:47.567 - Task completed. Filename: Recording-2019-01-12 18-01-38.mp4, Duration: 35 ms
+2019-01-12 18:02:11.833 - Executing: Open main window
+2019-01-12 18:02:48.957 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-12 18:03:16.425 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:03:17.464 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:04:16.413 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:04:17.547 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:04:35.794 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:04:36.353 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:06:38.689 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:06:39.303 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:06:44.039 - Executing: Start/Stop screen recording using custom region
+2019-01-12 18:06:44.044 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 18:06:49.272 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 419 -offset_y 161 -video_size 680x428 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -qp 0 "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-06-49.mp4"
+2019-01-12 18:08:16.904 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:08:17.757 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:08:21.554 - Executing: Start/Stop screen recording using custom region
+2019-01-12 18:08:21.558 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 18:09:11.180 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-12 18:09:37.089 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-12 18:10:06.839 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:10:07.945 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:10:09.534 - Executing: Start/Stop screen recording using custom region
+2019-01-12 18:10:09.543 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 18:10:15.717 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1366x768 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -qp 0 "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-10-15.mp4"
+2019-01-12 18:10:26.771 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -i "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-10-15.mp4" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-10-26.mp4"
+2019-01-12 18:10:56.249 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-12 18:10:56.253 - Task status: Preparing
+2019-01-12 18:10:56.254 - Task completed. Filename: Recording-2019-01-12 18-10-26.mp4, Duration: 3 ms
+2019-01-12 18:12:43.462 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:12:44.005 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:13:03.973 - Executing: Start/Stop screen recording using custom region
+2019-01-12 18:13:03.977 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-12 18:13:08.614 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 189 -offset_y 55 -video_size 316x518 -draw_mouse 1 -i desktop -f dshow -i audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-12 18-13-08.mp4"
+2019-01-12 18:16:28.316 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:16:29.016 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:16:29.017 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 18:16:29.017 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:16:29.108 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:16:29.582 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 18:16:29.752 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:16:29.880 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:25:22.871 - Executing: Open main window
+2019-01-12 18:26:28.625 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:26:29.087 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:26:30.419 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:26:30.427 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 18:26:30.429 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 18:26:31.440 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 18:26:31.553 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 18:26:31.650 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 23:52:04.713 - Executing: Open main window
+2019-01-12 23:52:42.995 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 23:52:43.690 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 23:52:55.684 - CLI: "C:\ShareX\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-12 23:55:24.125 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 23:55:24.358 - ShareX closing.
+2019-01-12 23:55:24.396 - ApplicationConfig save started: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 23:55:24.794 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 23:55:24.952 - ApplicationConfig save successful: C:\ShareX\ShareX\ApplicationConfig.json
+2019-01-12 23:55:24.977 - UploadersConfig save started: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 23:55:25.307 - UploadersConfig save successful: C:\ShareX\ShareX\UploadersConfig.json
+2019-01-12 23:55:25.330 - HotkeysConfig save started: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 23:55:25.762 - HotkeysConfig save successful: C:\ShareX\ShareX\HotkeysConfig.json
+2019-01-12 23:55:25.786 - ShareX closed.
+2019-01-14 13:14:30.039 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 13:14:43.069 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 13:14:53.379 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:04:41.302 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:04:41.955 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:04:42.391 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:04:42.390 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:04:42.391 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:04:42.832 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:04:42.995 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:04:43.136 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:06:40.351 - ShareX closing.
+2019-01-14 14:06:40.377 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:06:40.860 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:06:40.884 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:06:41.143 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:06:41.166 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:06:41.585 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:06:41.607 - ShareX closed.
+2019-01-14 14:06:44.891 - ShareX starting.
+2019-01-14 14:06:44.900 - Version: 12.3.1 Portable
+2019-01-14 14:06:44.900 - Build: Release
+2019-01-14 14:06:44.900 - Command line: "C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX.exe" 
+2019-01-14 14:06:44.902 - Personal path: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX
+2019-01-14 14:06:44.902 - Personal path detection method: Portable file (C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\Portable)
+2019-01-14 14:06:44.904 - Operating system: Windows 10 Home (64-bit)
+2019-01-14 14:06:44.905 - Running as elevated process: False
+2019-01-14 14:06:44.909 - Flags: Portable
+2019-01-14 14:06:45.185 - ApplicationConfig load started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:06:47.059 - ApplicationConfig load finished: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:06:47.069 - UploadersConfig load started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:06:47.071 - MainForm init started.
+2019-01-14 14:06:48.395 - UploadersConfig load finished: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:06:48.407 - HotkeysConfig load started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:06:48.445 - MainForm init finished.
+2019-01-14 14:06:48.766 - HotkeysConfig load finished: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:06:49.263 - Startup time: 4627 ms
+2019-01-14 14:06:49.394 - HotkeyManager started.
+2019-01-14 14:06:49.398 - WatchFolderManager started.
+2019-01-14 14:07:03.456 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:07:03.960 - Unhandled exception:
+System.ComponentModel.Win32Exception (0x80004005): The requested operation requires elevation
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   at ShareX.ScreenCaptureLib.FFmpegHelper.GetDirectShowDevices()
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<>c__DisplayClass11_0.<RefreshSourcesAsync>b__0()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<RefreshSourcesAsync>d__11.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<SettingsLoad>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<FFmpegOptionsForm_Load>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+
+ShareX 12.3.1 Portable (Release)
+2019-01-14 14:07:11.205 - ShareX continue.
+2019-01-14 14:07:27.034 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:07:27.142 - Unhandled exception:
+System.ComponentModel.Win32Exception (0x80004005): The requested operation requires elevation
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   at ShareX.ScreenCaptureLib.FFmpegHelper.GetDirectShowDevices()
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<>c__DisplayClass11_0.<RefreshSourcesAsync>b__0()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<RefreshSourcesAsync>d__11.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<SettingsLoad>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<FFmpegOptionsForm_Load>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+
+ShareX 12.3.1 Portable (Release)
+2019-01-14 14:08:03.278 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:08:03.330 - Unhandled exception:
+System.ComponentModel.Win32Exception (0x80004005): The requested operation requires elevation
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at ShareX.HelpersLib.ExternalCLIManager.Open(String path, String args)
+   at ShareX.ScreenCaptureLib.FFmpegHelper.GetDirectShowDevices()
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<>c__DisplayClass11_0.<RefreshSourcesAsync>b__0()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<RefreshSourcesAsync>d__11.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at ShareX.ScreenCaptureLib.FFmpegOptionsForm.<buttonFFmpegBrowse_Click>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+
+ShareX 12.3.1 Portable (Release)
+2019-01-14 14:08:40.160 - ShareX continue.
+2019-01-14 14:09:05.355 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:09:15.545 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:09:33.620 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:09:34.219 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:09:34.637 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:09:34.645 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:09:34.646 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:09:35.127 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:09:35.253 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:09:35.408 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:09:45.949 - Executing: Capture region
+2019-01-14 14:09:47.211 - Task in queue. Job: Job, Type: Image, Host: 
+2019-01-14 14:09:47.228 - Task status: Preparing
+2019-01-14 14:09:47.252 - Executing: Capture region
+2019-01-14 14:09:47.702 - Image copied to clipboard.
+2019-01-14 14:09:47.818 - Image saved to file: C:\Users\Morphic\Desktop\TSEmXWyYLo.png
+2019-01-14 14:09:47.877 - Task completed. Filename: TSEmXWyYLo.png, Duration: 641 ms
+2019-01-14 14:09:57.199 - ShareX closing.
+2019-01-14 14:09:57.275 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:09:57.763 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:09:57.786 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:09:58.150 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:09:58.179 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:09:58.638 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:09:58.661 - ShareX closed.
+2019-01-14 14:09:58.922 - URL opened: C:\Users\Morphic\Desktop\TSEmXWyYLo.png
+2019-01-14 14:10:14.066 - ShareX starting.
+2019-01-14 14:10:14.075 - Version: 12.3.1 Portable
+2019-01-14 14:10:14.075 - Build: Release
+2019-01-14 14:10:14.076 - Command line: "C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX.exe" 
+2019-01-14 14:10:14.078 - Personal path: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX
+2019-01-14 14:10:14.078 - Personal path detection method: Portable file (C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\Portable)
+2019-01-14 14:10:14.080 - Operating system: Windows 10 Home (64-bit)
+2019-01-14 14:10:14.082 - Running as elevated process: False
+2019-01-14 14:10:14.086 - Flags: Portable
+2019-01-14 14:10:14.119 - ApplicationConfig load started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:10:15.751 - ApplicationConfig load finished: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:10:15.762 - UploadersConfig load started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:10:15.765 - MainForm init started.
+2019-01-14 14:10:16.153 - UploadersConfig load finished: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:10:16.183 - HotkeysConfig load started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:10:16.363 - HotkeysConfig load finished: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:10:16.846 - MainForm init finished.
+2019-01-14 14:10:17.486 - Startup time: 3503 ms
+2019-01-14 14:10:17.593 - HotkeyManager started.
+2019-01-14 14:10:17.597 - WatchFolderManager started.
+2019-01-14 14:10:28.652 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:10:54.909 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2019-01-14 14:11:01.794 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:11:02.344 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:11:03.116 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:11:03.144 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:11:03.145 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:11:03.703 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:11:03.875 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:11:04.027 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:13:00.842 - Executing: Capture region
+2019-01-14 14:13:13.595 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:13:13.598 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:13:13.608 - Executing: Start/Stop screen recording using custom region
+2019-01-14 14:13:13.619 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-14 14:13:14.296 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:13:14.526 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:13:14.934 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:13:15.467 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:13:19.540 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -y -rtbufsize 150M -f dshow -i audio="virtual-audio-capturer" -f dshow -i audio="Microphone (Realtek High Definition Audio)" -f gdigrab -framerate 30 -offset_x 333 -offset_y 220 -video_size 638x438 -draw_mouse 1 -i desktop -filter_complex "[0:a][1:a]amerge=inputs=2[a]" -map 2 -map "[a]" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-14 14-13-19.mp4"
+2019-01-14 14:13:35.207 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-14 14:13:35.228 - Task status: Preparing
+2019-01-14 14:13:35.290 - Task completed. Filename: Recording-2019-01-14 14-13-19.mp4, Duration: 57 ms
+2019-01-14 14:13:37.746 - URL opened: C:\Users\Morphic\Desktop\Recording-2019-01-14 14-13-19.mp4
+2019-01-14 14:15:01.319 - Executing: Capture region
+2019-01-14 14:15:06.912 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:15:06.915 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:15:06.917 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:15:06.923 - Executing: Start/Stop screen recording using custom region
+2019-01-14 14:15:06.926 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-14 14:15:07.525 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:15:07.750 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:15:07.989 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:15:13.541 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 29 -offset_y 142 -video_size 864x494 -draw_mouse 1 -i desktop -f dshow -i audio="Microphone (Realtek High Definition Audio)" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-14 14-15-13.mp4"
+2019-01-14 14:15:35.374 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-14 14:15:35.391 - Task status: Preparing
+2019-01-14 14:15:35.392 - Task completed. Filename: Recording-2019-01-14 14-15-13.mp4, Duration: 15 ms
+2019-01-14 14:16:27.365 - Executing: Capture region
+2019-01-14 14:16:35.178 - ApplicationConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:16:35.184 - UploadersConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:16:35.184 - HotkeysConfig save started: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:16:35.188 - Executing: Start/Stop screen recording using custom region
+2019-01-14 14:16:35.192 - Starting screen recording. Video encoder: "x264 (mp4)", Audio encoder: "AAC", FPS: 30
+2019-01-14 14:16:35.861 - UploadersConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\UploadersConfig.json
+2019-01-14 14:16:36.043 - HotkeysConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\HotkeysConfig.json
+2019-01-14 14:16:36.240 - ApplicationConfig save successful: C:\Program Files (x86)\Morphic\windows\resources\sharex-portable\ShareX\ApplicationConfig.json
+2019-01-14 14:16:38.014 - CLI: "C:\Program Files (x86)\Morphic\windows\resources\ffmpeg\ffmpeg.exe" -y -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1366x768 -draw_mouse 1 -i desktop -f dshow -i audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -strict -2 -ac 2 -b:a 128k "C:\Users\Morphic\Desktop\Recording-2019-01-14 14-16-37.mp4"
+2019-01-14 14:16:52.909 - Task in queue. Job: Job, Type: File, Host: 
+2019-01-14 14:16:52.913 - Task status: Preparing
+2019-01-14 14:16:52.923 - Task completed. Filename: Recording-2019-01-14 14-16-37.mp4, Duration: 9 ms
+2019-01-14 14:16:54.352 - URL opened: C:\Users\Morphic\Desktop\Recording-2019-01-14 14-16-37.mp4
