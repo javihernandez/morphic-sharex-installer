@@ -26,7 +26,7 @@ cp deps\ffmpeg-4.1.1-win64-static\bin\ffmpeg.exe build\ffmpeg\
 cp deps\node.exe build\sharex-configurator\
 
 # vcredist_x64.exe
-cp deps\vcredist_x64.exe build\sharex-portable\
+#cp deps\vcredist_x64.exe build\sharex-portable\
 
 Write-Output "Generate fragment (.wxs file) with build folder"
 mkdir temp
