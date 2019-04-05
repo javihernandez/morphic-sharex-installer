@@ -246,7 +246,7 @@
           },
           "FFmpegOptions": {
             "OverrideCLIPath": false,
-            "CLIPath": "C:\\Program Files (x86)\\Morphic\\windows\\resources\\ffmpeg\\ffmpeg.exe",
+            "CLIPath": "C:\\Program Files (x86)\\Morphic\\sharex\\ffmpeg\\ffmpeg.exe",
             "VideoSource": "GDI grab",
             "AudioSource": "None",
             "VideoCodec": "libx264",
@@ -2090,7 +2090,7 @@
           },
           "FFmpegOptions": {
             "OverrideCLIPath": false,
-            "CLIPath": "%ProgramFiles% (x86)\\Morphic\\windows\\resources\\ffmpeg\\ffmpeg.exe",
+            "CLIPath": "%ProgramFiles% (x86)\\Morphic\\sharex\\ffmpeg\\ffmpeg.exe",
             "VideoSource": "GDI grab",
             "AudioSource": "virtual-audio-capturer",
             "VideoCodec": "libx264",
@@ -2551,7 +2551,7 @@
           },
           "FFmpegOptions": {
             "OverrideCLIPath": false,
-            "CLIPath": "%ProgramFiles% (x86)\\Morphic\\windows\\resources\\ffmpeg\\ffmpeg.exe",
+            "CLIPath": "%ProgramFiles% (x86)\\Morphic\\sharex\\ffmpeg\\ffmpeg.exe",
             "VideoSource": "GDI grab",
             "AudioSource": "virtual-audio-capturer",
             "VideoCodec": "libx264",
@@ -3012,7 +3012,7 @@
           },
           "FFmpegOptions": {
             "OverrideCLIPath": false,
-            "CLIPath": "%ProgramFiles% (x86)\\Morphic\\windows\\resources\\ffmpeg\\ffmpeg.exe",
+            "CLIPath": "%ProgramFiles% (x86)\\Morphic\\sharex\\ffmpeg\\ffmpeg.exe",
             "VideoSource": "GDI grab",
             "AudioSource": "Microphone (High Definition Audio Device)",
             "VideoCodec": "libx264",

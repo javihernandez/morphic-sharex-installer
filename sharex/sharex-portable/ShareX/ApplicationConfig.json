@@ -515,12 +515,12 @@
     150,
     90,
     90,
-    145
+    369
   ],
   "NewsLastReadDate": "0001-01-01T08:00:00Z",
   "Language": "Automatic",
   "ShowTray": true,
-  "SilentRun": false,
+  "SilentRun": true,
   "TrayIconProgressEnabled": true,
   "TaskbarProgressEnabled": true,
   "RememberMainFormPosition": false,
