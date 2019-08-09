@@ -6,7 +6,15 @@
 Push-Location (Split-Path -parent $PSCommandPath)
 
 function Clean {
-    rm -r temp, output, build
+    if (Test-Path -Path "temp"){
+        rm temp -Recurse -Force
+    }
+    if (Test-Path -Path "output"){
+        rm output -Recurse -Force
+    }
+    if (Test-Path -Path "build"){
+        rm build -Recurse -Force
+    }
 }
 
 Clean
@@ -16,17 +24,6 @@ mkdir build
 
 ## sharex folder content
 cp -r sharex\* build\
-
-## copy deps
-# ffmpeg.exe
-mkdir build\ffmpeg
-cp deps\ffmpeg-4.1.1-win64-static\bin\ffmpeg.exe build\ffmpeg\
-
-# node.exe
-cp deps\node.exe build\sharex-configurator\
-
-# vcredist_x64.exe
-#cp deps\vcredist_x64.exe build\sharex-portable\
 
 Write-Output "Generate fragment (.wxs file) with build folder"
 mkdir temp
